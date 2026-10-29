@@ -6,7 +6,10 @@
 ---
 
 ## 👋 Sobre mim
-
+João Geraldo, profissional de Tecnologias de Informação, com experiência em Helpdesk, administração de sistemas, redes e suporte técnico.
+Ao longo da minha carreira, desenvolvi competências na gestão de infraestruturas de TI e na resolução de problemas técnicos.
+O meu interesse pela Cibersegurança surge da vontade de proteger sistemas, identificar ameaças e contribuir para a segurança das organizações.
+Atualmente, procuro a minha primeira oportunidade profissional na área de Cibersegurança, especialmente como Analista SOC, onde possa aplicar os meus conhecimentos e continuar a desenvolver competências.
 <!-- João Geraldo, profissional de Tecnologias de Informação, com experiência em Helpdesk, administração de sistemas, redes e suporte técnico.
 Ao longo da minha carreira, desenvolvi competências na gestão de infraestruturas de TI e na resolução de problemas técnicos.
 O meu interesse pela Cibersegurança surge da vontade de proteger sistemas, identificar ameaças e contribuir para a segurança das organizações.
