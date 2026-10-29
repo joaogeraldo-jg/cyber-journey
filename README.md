@@ -17,7 +17,7 @@ Atualmente, procuro a minha primeira oportunidade profissional na área de Ciber
 
 Escreve aqui.
 
-📫 [LinkedIn](https://linkedin.com/in/...) · ✉️ teu.email@exemplo.com
+📫 [LinkedIn] www.linkedin.com/in/joão-geraldo-37447a143 · ✉️ geraldojoaomanuel@gmail.com
 
 ---
 
