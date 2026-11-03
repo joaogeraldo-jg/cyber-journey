@@ -13,8 +13,7 @@ Onde fizeste o trabalho (VM, sistema, rede, plataforma).
 
 ## 🔍 O que foi feito
 
-Passo a passo, com o teu raciocínio. Para cada comando ou filtro, explica o que faz e o que encontraste.
-
+Instalação da Aplicação VMware, para criação das VMs. Configurei e instalei o Ubuntu.
 ```bash
 # comando
 ```
