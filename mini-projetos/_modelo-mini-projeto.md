@@ -5,11 +5,14 @@
 
 ## 🎯 Objetivo
 
-O que este mini-projeto pretende mostrar, em 2 a 3 linhas.
+Pretende mostrar a funcionalidade de uma VM
+Como criar 
+Como configurar 
+Instalação do Ubuntu e suas configurações.  
 
 ## 🧪 Ambiente
 
-Onde fizeste o trabalho (VM, sistema, rede, plataforma).
+A instalação foi feita na VMware Workstation e configurada na mesma.  
 
 ## 🔍 O que foi feito
 
@@ -24,16 +27,18 @@ Instalação da Aplicação VMware, para criação das VMs. Configurei e instale
 
 ## 📊 Resultados
 
-Tabelas, respostas, conclusões técnicas.
+O ambiente funciona e está tudo bem. 
 
 ## 📚 O que aprendi
 
-- 
-- 
+- Criar Snapshot
+- Configurar o Ubuntu
+- Reverter um Snaoshot
 
 ## 🧗 Dificuldades
 
-O que foi difícil e como resolveste (ou o que ainda não está claro).
+Instalação do Ubuntu, na primeira fase falhou e tive que voltar a instalar. Na verdade é a primeira vez que o faço. 
+Segui alguns passos e na segunda vez foi fácil.
 
 ## 🔗 Referências
 
